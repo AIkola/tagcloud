@@ -7,6 +7,11 @@ gem 'rails', '4.2.6'
 gem 'pg'
 gem 'foundation-rails'
 
+gem 'therubyracer'
+gem 'devise'
+gem 'omniauth'
+gem 'omniauth-facebook'
+
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
