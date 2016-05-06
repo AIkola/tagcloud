@@ -11,6 +11,8 @@ gem 'therubyracer'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
 
 
 # Use SCSS for stylesheets
